@@ -3,8 +3,10 @@ C# Practice with Datastructure Challenges
 
 ## Template Header
 
-/* ********** Details ********** Date:
-Source: Key Lessons:
+/* ********** Details ********** 
+   Date:    
+   Source:   
+   Key Lessons:
 
     * 
 *************************** */
