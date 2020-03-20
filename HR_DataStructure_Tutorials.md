@@ -24,7 +24,7 @@
 
 
 # Queues & Stacks 
-h* ttps://www.hackerrank.com/challenges/30-queues-stacks/tutorial
+* https://www.hackerrank.com/challenges/30-queues-stacks/tutorial
 
 #Generics
 * https://www.hackerrank.com/challenges/30-generics/tutorial
