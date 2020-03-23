@@ -21,7 +21,12 @@
   * Syntax Tree - Constructed by compilers and (implicitly) calculators to parse expressions.
   * Treap - Randomized data structure used in wireless networking and memory allocation.
   * T-tree - Though most databases use some form of B-tree to store data on the drive, databases which keep all (most) their data in memory often use T-trees to do so.
-
+  * Advantages of BSTs over Hashmaps
+    * BSTs seem to be very effective when you need relative ordering.
+    * Frequent additions or removals lend themselves to BSTs IF there collection must be resized.
+    * BSTs are also better for very small datasets (< 20 items).
+    * https://www.geeksforgeeks.org/advantages-of-bst-over-hash-table/
+    * https://www.quora.com/When-should-I-use-a-binary-search-tree-over-a-hash-map
 
 # Queues & Stacks 
 * https://www.hackerrank.com/challenges/30-queues-stacks/tutorial
