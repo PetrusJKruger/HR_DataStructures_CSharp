@@ -23,10 +23,14 @@
   * T-tree - Though most databases use some form of B-tree to store data on the drive, databases which keep all (most) their data in memory often use T-trees to do so.
   * Advantages of BSTs over Hashmaps
     * BSTs seem to be very effective when you need relative ordering.
-    * Frequent additions or removals lend themselves to BSTs IF there collection must be resized.
+    * Frequent additions or removals lend themselves to BSTs IF the collection must be resized.
     * BSTs are also better for very small datasets (< 20 items).
     * https://www.geeksforgeeks.org/advantages-of-bst-over-hash-table/
     * https://www.quora.com/When-should-I-use-a-binary-search-tree-over-a-hash-map
+    
+# Tries
+* https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/
+  * You need to understand Tree Traversal to work well with tries
 
 # Queues & Stacks 
 * https://www.hackerrank.com/challenges/30-queues-stacks/tutorial
