@@ -27,7 +27,10 @@
     * BSTs are also better for very small datasets (< 20 items).
     * https://www.geeksforgeeks.org/advantages-of-bst-over-hash-table/
     * https://www.quora.com/When-should-I-use-a-binary-search-tree-over-a-hash-map
-    
+# Heaps
+* Special type of Tree - all items are in specific order 
+* Think of a sorted tree.
+* The are also called priority queues
 # Tries
 * https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/
   * You need to understand Tree Traversal to work well with tries
@@ -35,6 +38,13 @@
 # Queues & Stacks 
 * https://www.hackerrank.com/challenges/30-queues-stacks/tutorial
 
-#Generics
+# Generics
 * https://www.hackerrank.com/challenges/30-generics/tutorial
 * https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/
+
+# Disjointed Sets
+* https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/tutorial/
+* Explanation and Use Cases
+  * Calculating mutual friends
+  * Detecting cycles in data
+  * https://www.oodlestechnologies.com/blogs/Understanding-Disjoint-Set-And-Their-Use-Cases-in-Computer-Science/
